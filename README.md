@@ -7,7 +7,7 @@ Repository ini berisi catatan, notebook, dan mini project dari pelatihan **Funda
 - Mini Project: Retail Data Scientist Case Study- Dasar Statistik dan Algoritma Machine Learning
 
 ## Link Colab
-[Buka di Google Colab](https://colab.research.google.com/) *(tambahkan link notebook jika sudah diupload)*
+[Buka di Google Colab](https://colab.research.google.com/) *(https://colab.research.google.com/github/nahira08/Lab-Fundamental-to-Machine-Learning/blob/main/Mini_Project_Retail_Data_Scientist.ipynb)*
 
 ---
 Dibuat menggunakan Google Colab
