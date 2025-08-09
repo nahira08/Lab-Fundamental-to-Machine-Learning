@@ -10,6 +10,7 @@ Repository ini berisi catatan, notebook, dan mini project dari pelatihan **Funda
 - Mini Project: Metrik Statistik Penting pada Algoritma Clustering K-Means ( 5 )
 - Mini Project: Data Quality with Python for Beginner ( 6 )
 - Mini Project: Data Science in Telco: Data Cleansing ( 7 )
+- Mini Project: Multiclass Classification dengan Algoritma Multinomial Naive Bayes dan k-Nearest Neighbors ( 8 )
 
 
 ---
