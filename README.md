@@ -13,6 +13,10 @@ Repository ini berisi catatan, notebook, dan mini project dari pelatihan **Funda
 - Mini Project: Multiclass Classification dengan Algoritma Multinomial Naive Bayes dan k-Nearest Neighbors ( 8 )
 - Mini Project: Binary Classification ( 9 )
 - Mini Project: Training Set dan Testing Set pada Machine Learning ( 10 )
+- Mini Project: Implementasi Decision Tree dengan Random Forest ( 11 )
+- Mini Project: Metrik Penting pada Algoritma Random Forest ( 12 )
+- Mini Project: Implementasi Decision Tree dengan CART ( 13 )
+- Mini Project: Pengantar Storytelling dengan Visualisasi menggunakan Python ( 14 )
 
 ---
 Dibuat menggunakan Google Colab
